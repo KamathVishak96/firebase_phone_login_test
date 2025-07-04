@@ -1,4 +1,5 @@
 lib/firebase_options.dart
+ios/Runner/GoogleService-Info.plist
 
 # Miscellaneous
 *.class
@@ -53,3 +54,4 @@ app.*.map.json
 /CLAUDE.md
 /ios/build/
 /full_deps.txt
+/ios/Podfile.lock
